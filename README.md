@@ -5,4 +5,4 @@ sudo curl -o pb.sh https://raw.githubusercontent.com/waltherjj/paulblock/main/pa
 paulblock
 
 # Remove blacklist / restore
-paulblack -r "password"
+paulblock -r "password"
